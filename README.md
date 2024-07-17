@@ -3,6 +3,8 @@
 
 - 🔭 Ahora mismo estoy trabajando en mi **portfolio personal**
 
+- 👨‍💻 Échale un vistazo a mi proyecto más grande en [https://github.com/SergioIzq/Proyecto-Integrado](https://github.com/SergioIzq/Proyecto-Integrado)
+
 - 🌱 A la vez estoy formándome en **Angular, .net framework/core, desarrollo multiplataforma, y frameworks como React, Vue, Django etc...**
 
 - 📫 Aquí tienes mi email de contacto por si lo necesitas **seizquie@gmail.com**
