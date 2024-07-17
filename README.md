@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Sergio Izquierdo</h1>
+<h1 align="center">Hola 👋, soy Sergio Izquierdo</h1>
 <h3 align="center">Un apasionado desarrollador full-stack de Sevilla.</h3>
 
 - 🔭 Ahora mismo estoy trabajando en mi **portfolio personal**
