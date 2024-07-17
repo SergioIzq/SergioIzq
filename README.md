@@ -3,7 +3,7 @@
 
 - 🔭 Ahora mismo estoy trabajando en mi **portfolio personal**
 
-- 🌱 Ahora mismo estoy formándome en **Angular, .net framework/core y desarrollo móvil**
+- 🌱 A la vez estoy formándome en **Angular, .net framework/core, desarrollo multiplataforma, y frameworks como React, Vue, Django etc...**
 
 - 📫 Aquí tienes mi email de contacto por si lo necesitas **seizquie@gmail.com**
 
