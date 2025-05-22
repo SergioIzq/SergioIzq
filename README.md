@@ -3,7 +3,7 @@
 
 - 🔭 Ahora mismo estoy trabajando en mi **portfolio personal**
 
-- 👨‍💻 Échale un vistazo a mi proyecto más grande en [ahorroland.sergioizq.es](https://ahorroland.sergioizq.es). Así como los dos repositorios en los que esta subido:  [https://github.com/SergioIzq/GastosApp-Frontend](https://github.com/SergioIzq/GastosApp-Frontend) y           [https://github.com/SergioIzq/GastosApp-Backend](https://github.com/SergioIzq/GastosApp-Backend)
+- 👨‍💻 Échale un vistazo a mi proyecto más grande en [ahorroland.sergioizq.es](https://ahorroland.sergioizq.es). Así como los dos repositorios en los que esta subido:  [frontend](https://github.com/SergioIzq/GastosApp-Frontend) y [backend](https://github.com/SergioIzq/GastosApp-Backend)
 
 - 🌱 A la vez estoy formándome en **Angular, .net framework/core, desarrollo multiplataforma, y frameworks como React, Vue, Django etc...**
 
