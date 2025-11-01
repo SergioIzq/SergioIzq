@@ -7,7 +7,7 @@
 
 - 🌱 A la vez estoy formándome en **Angular, .net framework/core, desarrollo multiplataforma, y frameworks como React, Vue, Django etc...**
 
-- 📫 Aquí tienes mi email de contacto por si lo necesitas **seizquie@gmail.com**
+- 📫 Aquí tienes mi email de contacto por si lo necesitas **sergioizq.dev@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
