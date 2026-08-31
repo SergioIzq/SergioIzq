@@ -39,8 +39,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioizq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioizq&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+<img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api?username=sergioizq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs/?username=sergioizq&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 
 <img src="https://streak-stats.demolab.com?user=sergioizq&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
