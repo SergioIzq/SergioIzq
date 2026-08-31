@@ -1,22 +1,53 @@
-<h1 align="center">Hola 👋, soy Sergio Izquierdo</h1>
-<h3 align="center">Un apasionado desarrollador full-stack de Sevilla.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=190&section=header&text=Sergio%20Izquierdo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Sevilla,%20Espa%C3%B1a&descAlignY=58&descSize=18" width="100%" alt="header" />
 
-- 🔭 Ahora mismo estoy trabajando en mi **portfolio personal**
+<div align="center">
 
-- 👨‍💻 Échale un vistazo a mi proyecto más grande en [kash.sergioizq.com](https://kash.sergioizq.com). Así como los dos repositorios en los que esta subido:  [frontend](https://github.com/SergioIzq/Kash-Frontend) y [backend](https://github.com/SergioIzq/Kash-Backend)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2196F3&center=true&vCenter=true&width=600&lines=Apasionado+por+el+c%C3%B3digo+limpio+%F0%9F%A7%A9;DDD+%7C+Arquitectura+Hexagonal+%7C+CQRS;Construyendo+Kash%2C+mi+app+de+finanzas;Aprendiendo+algo+nuevo+cada+semana+%F0%9F%8C%B1" alt="Typing SVG" />
 
-- 🌱 A la vez estoy formándome en **Angular, .net framework/core, desarrollo multiplataforma, y frameworks como React, Vue, Django etc...**
+<br />
 
-- 📫 Aquí tienes mi email de contacto por si lo necesitas **sergioizq.dev@gmail.com**
+<a href="https://sergioizq.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sergioizq.com-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://kash.sergioizq.com" target="_blank"><img src="https://img.shields.io/badge/Proyecto-Kash-0D47A1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sergioizquierdomoreno" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sergio%20Izquierdo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sergioizq.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sergioizq.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sergioizquierdomoreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sergioizquierdomoreno" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Lenguajes y herramientas que más domino:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioizq&show_icons=true&locale=en&layout=compact" alt="sergioizq" /></p>
+## 👨‍💻 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergioizq&show_icons=true&locale=en" alt="sergioizq" /></p>
+- 🎯 Desarrollador **Full Stack** apasionado por el código limpio, las arquitecturas escalables (**DDD, Hexagonal, CQRS**) y aprender sin parar.
+- 🔭 Mi proyecto más grande hasta ahora es **[Kash](https://kash.sergioizq.com)**, una app completa de gestión económica full stack — [frontend](https://github.com/SergioIzq/Kash-Frontend) · [backend](https://github.com/SergioIzq/Kash-Backend).
+- 🌱 Ahora mismo afianzando **Angular** y **.NET / .NET Core**, y explorando **desarrollo multiplataforma, React, Vue y Django**.
+- 🌐 Todo mi trabajo y proyectos en **[sergioizq.com](https://sergioizq.com)**.
+- 📫 ¿Hablamos? **sergioizq.dev@gmail.com**
+
+<br />
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,js,html,css,bootstrap,nodejs,mysql,mssql,docker,azure,git,postman,java&theme=dark&perline=8" />
+
+</div>
+
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sergioizq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioizq&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+<img src="https://streak-stats.demolab.com?user=sergioizq&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Gracias por pasarte por aquí 🚀</sub>
+</div>
